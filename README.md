@@ -4,6 +4,8 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yunseonyeong&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <br>
+  
+[![seonyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunseonyeong&theme=maroongold)]()
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunsyonng)](https://solved.ac/yunsyonng/)
 </div>
